@@ -1,4 +1,3 @@
-# Jan-Kitchen-Web
-School project - Blog website concept using HTML, CSS and Javascript from scratch
+# Jan's Personal Blog Concept
 
-Live at: http://myy.haaga-helia.fi/~a1605339/TungsWebsite/JansKitchen/Jan_Kitchen_Index.html
+School project - Blog website concept using HTML, CSS and Javascript from scratch

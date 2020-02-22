@@ -7,12 +7,5 @@
   "repository": "https://github.com/htqtung/jan-kitchen-concept.git",
   "author": "Tung Huynh <htqtung@gmail.com>",
   "license": "MIT",
-  "private": true,
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
-  "devDependencies": {
-    "gh-pages": "^2.2.0"
-  }
+  "private": true
 }
